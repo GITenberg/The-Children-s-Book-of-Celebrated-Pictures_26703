@@ -1,0 +1,28 @@
+_repo: The-Children-s-Book-of-Celebrated-Pictures_26703
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bryant, Lorinda Munson
+    birthdate: 1855
+    deathdate: 1933
+    gutenberg_agent_id: '32190'
+    url: http://www.gutenberg.org/2009/agents/32190
+description: ''
+gutenberg_issued: '2008-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26703'
+  lccn: '22018307'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Art -- Juvenile literature'
+- !lcsh 'Painting -- Juvenile literature'
+title: The Children's Book of Celebrated Pictures
+url: http://www.gutenberg.org/ebooks/26703
