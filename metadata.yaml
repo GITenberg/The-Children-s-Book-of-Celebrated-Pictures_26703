@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32190'
     url: http://www.gutenberg.org/2009/agents/32190
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26703#The-Children-s-Book-of-Celebrated-Pictures
 gutenberg_issued: '2008-09-26'
 gutenberg_type: Text
 identifiers:
